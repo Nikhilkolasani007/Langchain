@@ -1,18 +1,6 @@
-Perfect — now I fully understand your **constraint and goal**.
-
-You **do NOT want explanations right now**.
-You want a **clear, finish-today checklist** so that:
-
-* You can **focus only on LangChain today**
-* You can **build a GitHub reference repo**
-* You reach a **“professional-ready” level (not fake mastery)**
-* Later you can safely move to **LangGraph + React**
-
-So here is exactly that.
-
 ---
 
-# ✅ LangChain — ONE-DAY “PROFESSIONAL” CHECKLIST
+# ✅ LangChain — Tutorial
 
 *(Basic → Advanced → Production)*
 
