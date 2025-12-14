@@ -210,14 +210,6 @@ Use an **Agent only when flexibility is required**.
 
 ---
 
-## Next Phase
-
-➡️ **PHASE 2: First LangChain Components (Hands-On)**  
-- First LLM calls  
-- Prompt templates  
-- Deterministic chains  
-- Free APIs only
-
 
 
 
